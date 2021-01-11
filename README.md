@@ -16,6 +16,7 @@ Another design goal was to reduce the total part count which I am still working 
 - Annex engineering micro switch magnetic probe
 - Klipper firmware
 - Air filter (activated Carbon & HEPA13)
+
 More features such as lighting are in the planning but not implemented as of yet. I am also planning to write a full set of assembly instructions and publish all firmware configurations and such on here at a later point. 
 
 # Important notes
