@@ -2,6 +2,8 @@
 
 This is my take on a printer design inspired by the Hypercube Evolution from SCOTT_3D.
 
+<img src="/Images/Silhouette.png" alt="Silhouette"/>
+
 # Design
 My initial design goal was to make it more visually appealing but more importantly to make it enclosed so it was possible to print more demanding/picky materials on it such as ABS, ASA, PC, etc. 
 In the process I stumbled across many ideas which I implemented either by changing the original or by drawing up my own.
