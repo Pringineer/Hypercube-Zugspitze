@@ -1,6 +1,5 @@
 Voron
 
-- Afterburner
 - Nozzle referencer
 
 https://vorondesign.com/
@@ -10,6 +9,10 @@ Annex engineering
 - Magnetic switch probe/Microswitch probe
 
 https://github.com/Annex-Engineering/Annex-Engineering_Other_Printer_Mods/tree/master/All_Printers/Microswitch_Probe
+
+- Sherpa Mini
+
+https://github.com/Annex-Engineering/Sherpa_Mini-Extruder
 
 Gavitka
  
