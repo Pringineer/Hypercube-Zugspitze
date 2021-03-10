@@ -15,7 +15,7 @@ Another design goal was to reduce the total part count which I am still working 
 - Backpack style electronics
 - Mains heated print bed
 - 200mm^2 build area
-- Voron Afterburner hotend adaptation
+- Self-designed Toolhead utilizing Annex Engineering's lightweight Extruder called Sherpa Mini
 - Blind jointed frame
 - Annex engineering micro switch magnetic probe
 - Klipper firmware
